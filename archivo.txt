@@ -2,3 +2,6 @@ Nombre: gustavo Adolfo López Estrada
 grado: 5to bachillerato 
 
 carrera: bachillerato en ciencia y letras con orientacion en computacion 
+
+elegi esta carrera por que me gusta todo el tema de lo que tiene que ver con las 
+computadoras y la tecnologia 
