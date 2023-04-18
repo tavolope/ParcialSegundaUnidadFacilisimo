@@ -1,6 +1,7 @@
 Nombre: gustavo Adolfo López Estrada
 
-grado: 5to bachiller 
+
+grado: 5to bachillerato 
 
 carrera: Bachiller en ciencias y letras con orientacion en 
 
